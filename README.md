@@ -24,7 +24,8 @@ This project uses [`next/font`](https://nextjs.org/docs/app/building-your-applic
   - Add project and action item documentation
   - Add starting data
   - Initial project creation, api endpoints, types
-  - working back end with zod validation
+  - copilot generated working back end with zod validation
+  - copilot added unit tests
 
 ## Learn More
 
