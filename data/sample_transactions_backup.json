@@ -1,0 +1,592 @@
+{
+  "transactions": [
+    {
+      "id": "t001",
+      "date": "2024-09-02",
+      "amount": 84.32,
+      "category": "Food",
+      "merchant": "Whole Foods"
+    },
+    {
+      "id": "t002",
+      "date": "2024-09-03",
+      "amount": 42.00,
+      "category": "Transport",
+      "merchant": "Shell Gas Station"
+    },
+    {
+      "id": "t003",
+      "date": "2024-09-05",
+      "amount": 1200.00,
+      "category": "Housing",
+      "merchant": "Oakwood Apartments"
+    },
+    {
+      "id": "t004",
+      "date": "2024-09-06",
+      "amount": 15.99,
+      "category": "Subscriptions",
+      "merchant": "Netflix"
+    },
+    {
+      "id": "t005",
+      "date": "2024-09-07",
+      "amount": 56.10,
+      "category": "Food",
+      "merchant": "HEB Grocery"
+    },
+    {
+      "id": "t006",
+      "date": "2024-09-09",
+      "amount": 29.00,
+      "category": "Entertainment",
+      "merchant": "Alamo Drafthouse"
+    },
+    {
+      "id": "t007",
+      "date": "2024-09-11",
+      "amount": 120.00,
+      "category": "Health",
+      "merchant": "CVS Pharmacy"
+    },
+    {
+      "id": "t008",
+      "date": "2024-09-13",
+      "amount": 38.50,
+      "category": "Food",
+      "merchant": "Chipotle"
+    },
+    {
+      "id": "t009",
+      "date": "2024-09-15",
+      "amount": 9.99,
+      "category": "Subscriptions",
+      "merchant": "Spotify"
+    },
+    {
+      "id": "t010",
+      "date": "2024-09-17",
+      "amount": 65.00,
+      "category": "Transport",
+      "merchant": "Uber"
+    },
+    {
+      "id": "t011",
+      "date": "2024-09-19",
+      "amount": 200.00,
+      "category": "Health",
+      "merchant": "Austin Sports Medicine"
+    },
+    {
+      "id": "t012",
+      "date": "2024-09-21",
+      "amount": 47.80,
+      "category": "Food",
+      "merchant": "Trader Joes"
+    },
+    {
+      "id": "t013",
+      "date": "2024-09-23",
+      "amount": 14.99,
+      "category": "Subscriptions",
+      "merchant": "Amazon Prime"
+    },
+    {
+      "id": "t014",
+      "date": "2024-09-25",
+      "amount": 55.00,
+      "category": "Entertainment",
+      "merchant": "Top Golf"
+    },
+    {
+      "id": "t015",
+      "date": "2024-09-28",
+      "amount": 33.20,
+      "category": "Food",
+      "merchant": "Torchys Tacos"
+    },
+    {
+      "id": "t016",
+      "date": "2024-10-01",
+      "amount": 1200.00,
+      "category": "Housing",
+      "merchant": "Oakwood Apartments"
+    },
+    {
+      "id": "t017",
+      "date": "2024-10-02",
+      "amount": 91.40,
+      "category": "Food",
+      "merchant": "Whole Foods"
+    },
+    {
+      "id": "t018",
+      "date": "2024-10-04",
+      "amount": 15.99,
+      "category": "Subscriptions",
+      "merchant": "Netflix"
+    },
+    {
+      "id": "t019",
+      "date": "2024-10-05",
+      "amount": 48.00,
+      "category": "Transport",
+      "merchant": "Shell Gas Station"
+    },
+    {
+      "id": "t020",
+      "date": "2024-10-07",
+      "amount": 22.50,
+      "category": "Food",
+      "merchant": "Starbucks"
+    },
+    {
+      "id": "t021",
+      "date": "2024-10-09",
+      "amount": 9.99,
+      "category": "Subscriptions",
+      "merchant": "Spotify"
+    },
+    {
+      "id": "t022",
+      "date": "2024-10-11",
+      "amount": 75.00,
+      "category": "Entertainment",
+      "merchant": "Six Flags Fiesta Texas"
+    },
+    {
+      "id": "t023",
+      "date": "2024-10-13",
+      "amount": 60.00,
+      "category": "Health",
+      "merchant": "CVS Pharmacy"
+    },
+    {
+      "id": "t024",
+      "date": "2024-10-15",
+      "amount": 39.75,
+      "category": "Food",
+      "merchant": "HEB Grocery"
+    },
+    {
+      "id": "t025",
+      "date": "2024-10-18",
+      "amount": 14.99,
+      "category": "Subscriptions",
+      "merchant": "Amazon Prime"
+    },
+    {
+      "id": "t026",
+      "date": "2024-10-20",
+      "amount": 35.00,
+      "category": "Transport",
+      "merchant": "Lyft"
+    },
+    {
+      "id": "t027",
+      "date": "2024-10-23",
+      "amount": 28.90,
+      "category": "Food",
+      "merchant": "Chipotle"
+    },
+    {
+      "id": "t028",
+      "date": "2024-10-26",
+      "amount": 110.00,
+      "category": "Health",
+      "merchant": "Planet Fitness Annual Fee"
+    },
+    {
+      "id": "t029",
+      "date": "2024-10-28",
+      "amount": 44.00,
+      "category": "Entertainment",
+      "merchant": "Alamo Drafthouse"
+    },
+    {
+      "id": "t030",
+      "date": "2024-10-30",
+      "amount": 67.30,
+      "category": "Food",
+      "merchant": "Trader Joes"
+    },
+    {
+      "id": "t031",
+      "date": "2024-11-01",
+      "amount": 1200.00,
+      "category": "Housing",
+      "merchant": "Oakwood Apartments"
+    },
+    {
+      "id": "t032",
+      "date": "2024-11-03",
+      "amount": 15.99,
+      "category": "Subscriptions",
+      "merchant": "Netflix"
+    },
+    {
+      "id": "t033",
+      "date": "2024-11-04",
+      "amount": 52.00,
+      "category": "Transport",
+      "merchant": "Shell Gas Station"
+    },
+    {
+      "id": "t034",
+      "date": "2024-11-06",
+      "amount": 73.45,
+      "category": "Food",
+      "merchant": "Whole Foods"
+    },
+    {
+      "id": "t035",
+      "date": "2024-11-08",
+      "amount": 9.99,
+      "category": "Subscriptions",
+      "merchant": "Spotify"
+    },
+    {
+      "id": "t036",
+      "date": "2024-11-10",
+      "amount": 180.00,
+      "category": "Health",
+      "merchant": "Austin Sports Medicine"
+    },
+    {
+      "id": "t037",
+      "date": "2024-11-12",
+      "amount": 34.20,
+      "category": "Food",
+      "merchant": "Torchys Tacos"
+    },
+    {
+      "id": "t038",
+      "date": "2024-11-15",
+      "amount": 14.99,
+      "category": "Subscriptions",
+      "merchant": "Amazon Prime"
+    },
+    {
+      "id": "t039",
+      "date": "2024-11-17",
+      "amount": 90.00,
+      "category": "Entertainment",
+      "merchant": "Texas Rangers Game"
+    },
+    {
+      "id": "t040",
+      "date": "2024-11-20",
+      "amount": 58.60,
+      "category": "Food",
+      "merchant": "HEB Grocery"
+    },
+    {
+      "id": "t041",
+      "date": "2024-11-22",
+      "amount": 40.00,
+      "category": "Transport",
+      "merchant": "Uber"
+    },
+    {
+      "id": "t042",
+      "date": "2024-11-25",
+      "amount": 25.00,
+      "category": "Entertainment",
+      "merchant": "Netflix Upgrade"
+    },
+    {
+      "id": "t043",
+      "date": "2024-11-27",
+      "amount": 145.80,
+      "category": "Food",
+      "merchant": "HEB Grocery"
+    },
+    {
+      "id": "t044",
+      "date": "2024-11-29",
+      "amount": 88.00,
+      "category": "Health",
+      "merchant": "CVS Pharmacy"
+    },
+    {
+      "id": "t045",
+      "date": "2024-12-01",
+      "amount": 1200.00,
+      "category": "Housing",
+      "merchant": "Oakwood Apartments"
+    },
+    {
+      "id": "t046",
+      "date": "2024-12-02",
+      "amount": 15.99,
+      "category": "Subscriptions",
+      "merchant": "Netflix"
+    },
+    {
+      "id": "t047",
+      "date": "2024-12-03",
+      "amount": 55.00,
+      "category": "Transport",
+      "merchant": "Shell Gas Station"
+    },
+    {
+      "id": "t048",
+      "date": "2024-12-05",
+      "amount": 9.99,
+      "category": "Subscriptions",
+      "merchant": "Spotify"
+    },
+    {
+      "id": "t049",
+      "date": "2024-12-07",
+      "amount": 112.30,
+      "category": "Food",
+      "merchant": "Whole Foods"
+    },
+    {
+      "id": "t050",
+      "date": "2024-12-10",
+      "amount": 14.99,
+      "category": "Subscriptions",
+      "merchant": "Amazon Prime"
+    },
+    {
+      "id": "t051",
+      "date": "2024-12-12",
+      "amount": 150.00,
+      "category": "Entertainment",
+      "merchant": "Live Music Venue"
+    },
+    {
+      "id": "t052",
+      "date": "2024-12-14",
+      "amount": 95.00,
+      "category": "Health",
+      "merchant": "Austin Sports Medicine"
+    },
+    {
+      "id": "t053",
+      "date": "2024-12-16",
+      "amount": 78.40,
+      "category": "Food",
+      "merchant": "HEB Grocery"
+    },
+    {
+      "id": "t054",
+      "date": "2024-12-19",
+      "amount": 60.00,
+      "category": "Transport",
+      "merchant": "Lyft"
+    },
+    {
+      "id": "t055",
+      "date": "2024-12-21",
+      "amount": 200.00,
+      "category": "Entertainment",
+      "merchant": "Holiday Party Supplies"
+    },
+    {
+      "id": "t056",
+      "date": "2024-12-23",
+      "amount": 185.60,
+      "category": "Food",
+      "merchant": "Whole Foods"
+    },
+    {
+      "id": "t057",
+      "date": "2024-12-26",
+      "amount": 44.99,
+      "category": "Subscriptions",
+      "merchant": "YouTube Premium Annual"
+    },
+    {
+      "id": "t058",
+      "date": "2024-12-28",
+      "amount": 33.00,
+      "category": "Food",
+      "merchant": "Torchys Tacos"
+    },
+    {
+      "id": "t059",
+      "date": "2025-01-01",
+      "amount": 1200.00,
+      "category": "Housing",
+      "merchant": "Oakwood Apartments"
+    },
+    {
+      "id": "t060",
+      "date": "2025-01-03",
+      "amount": 15.99,
+      "category": "Subscriptions",
+      "merchant": "Netflix"
+    },
+    {
+      "id": "t061",
+      "date": "2025-01-05",
+      "amount": 46.00,
+      "category": "Transport",
+      "merchant": "Shell Gas Station"
+    },
+    {
+      "id": "t062",
+      "date": "2025-01-07",
+      "amount": 9.99,
+      "category": "Subscriptions",
+      "merchant": "Spotify"
+    },
+    {
+      "id": "t063",
+      "date": "2025-01-09",
+      "amount": 68.75,
+      "category": "Food",
+      "merchant": "Whole Foods"
+    },
+    {
+      "id": "t064",
+      "date": "2025-01-11",
+      "amount": 14.99,
+      "category": "Subscriptions",
+      "merchant": "Amazon Prime"
+    },
+    {
+      "id": "t065",
+      "date": "2025-01-13",
+      "amount": 45.00,
+      "category": "Entertainment",
+      "merchant": "Alamo Drafthouse"
+    },
+    {
+      "id": "t066",
+      "date": "2025-01-15",
+      "amount": 130.00,
+      "category": "Health",
+      "merchant": "Austin Sports Medicine"
+    },
+    {
+      "id": "t067",
+      "date": "2025-01-17",
+      "amount": 54.20,
+      "category": "Food",
+      "merchant": "HEB Grocery"
+    },
+    {
+      "id": "t068",
+      "date": "2025-01-20",
+      "amount": 38.00,
+      "category": "Transport",
+      "merchant": "Uber"
+    },
+    {
+      "id": "t069",
+      "date": "2025-01-23",
+      "amount": 29.50,
+      "category": "Food",
+      "merchant": "Chipotle"
+    },
+    {
+      "id": "t070",
+      "date": "2025-01-26",
+      "amount": 60.00,
+      "category": "Entertainment",
+      "merchant": "Top Golf"
+    },
+    {
+      "id": "t071",
+      "date": "2025-01-28",
+      "amount": 75.00,
+      "category": "Health",
+      "merchant": "CVS Pharmacy"
+    },
+    {
+      "id": "t072",
+      "date": "2025-01-30",
+      "amount": 41.10,
+      "category": "Food",
+      "merchant": "Trader Joes"
+    },
+    {
+      "id": "t073",
+      "date": "2025-02-01",
+      "amount": 1200.00,
+      "category": "Housing",
+      "merchant": "Oakwood Apartments"
+    },
+    {
+      "id": "t074",
+      "date": "2025-02-03",
+      "amount": 15.99,
+      "category": "Subscriptions",
+      "merchant": "Netflix"
+    },
+    {
+      "id": "t075",
+      "date": "2025-02-04",
+      "amount": 50.00,
+      "category": "Transport",
+      "merchant": "Shell Gas Station"
+    },
+    {
+      "id": "t076",
+      "date": "2025-02-06",
+      "amount": 9.99,
+      "category": "Subscriptions",
+      "merchant": "Spotify"
+    },
+    {
+      "id": "t077",
+      "date": "2025-02-08",
+      "amount": 88.45,
+      "category": "Food",
+      "merchant": "Whole Foods"
+    },
+    {
+      "id": "t078",
+      "date": "2025-02-10",
+      "amount": 14.99,
+      "category": "Subscriptions",
+      "merchant": "Amazon Prime"
+    },
+    {
+      "id": "t079",
+      "date": "2025-02-12",
+      "amount": 95.00,
+      "category": "Health",
+      "merchant": "Austin Sports Medicine"
+    },
+    {
+      "id": "t080",
+      "date": "2025-02-14",
+      "amount": 120.00,
+      "category": "Entertainment",
+      "merchant": "Valentines Dinner"
+    },
+    {
+      "id": "t081",
+      "date": "2025-02-17",
+      "amount": 62.30,
+      "category": "Food",
+      "merchant": "HEB Grocery"
+    },
+    {
+      "id": "t082",
+      "date": "2025-02-19",
+      "amount": 33.00,
+      "category": "Transport",
+      "merchant": "Lyft"
+    },
+    {
+      "id": "t083",
+      "date": "2025-02-21",
+      "amount": 27.80,
+      "category": "Food",
+      "merchant": "Torchys Tacos"
+    },
+    {
+      "id": "t084",
+      "date": "2025-02-23",
+      "amount": 55.00,
+      "category": "Health",
+      "merchant": "CVS Pharmacy"
+    }
+  ]
+}
