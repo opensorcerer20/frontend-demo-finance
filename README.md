@@ -20,9 +20,11 @@ This project uses [`next/font`](https://nextjs.org/docs/app/building-your-applic
 
 ## Project Log
 
-- Add project and action item documentation
-- Add starting data
-- Initial project creation, api endpoints, types
+- 2026-02-25
+  - Add project and action item documentation
+  - Add starting data
+  - Initial project creation, api endpoints, types
+  - working back end with zod validation
 
 ## Learn More
 

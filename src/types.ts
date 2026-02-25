@@ -43,7 +43,7 @@ export enum Category {
 }
 
 const TransactionSchema = z.object({
-  id: z.number(),
+  id: z.string(),
   date: z.date(),
   amount: z.number(),
   category: z.enum(Category),
@@ -66,7 +66,7 @@ const MonthlySummarySchema = z.object({
   label: z.string(), // e.g. "Sep 2024" — human readable version for display
   total: z.number(),
   transactionCount: z.number(),
-  byCategory: z.array(z.object(CategorySummarySchema))
+  byCategory: z.array(CategorySummarySchema)
 });
 
-export type MonthlySummary = z.infer<typeof CategorySummarySchema>;
+export type MonthlySummary = z.infer<typeof MonthlySummarySchema>;
